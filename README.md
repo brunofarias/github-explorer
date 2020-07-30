@@ -34,10 +34,6 @@
   <a href="#-autor">Autor</a>
 </p>
 
-<p align="center">  
-  <img alt="Layout"  src="web/src/assets/ecoleta.png">
-</p>
-
 ## 👨🏻‍💻 Sobre o projeto
 
 Aplicação desenvolvida utilizando a API do Github, para pesquisar e listar repositórios, assim como visualizar detalhes de cada um.
