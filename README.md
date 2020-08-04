@@ -30,7 +30,6 @@
   <a href="#-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Iniciando">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-autor">Autor</a>
 </p>
 
@@ -73,35 +72,6 @@ $ yarn
 # Start the client
 $ yarn start
 ```
-
-## 🤔 Como contribuir
-
-**Crie um fork desse repositório**
-
-```bash
-# Fork using GitHub official command line
-# If you don't have the GitHub CLI, use the web site to do that.
-
-$ gh repo fork brunofarias/github-explorer
-```
-
-**Siga os passos abaixo**
-
-```bash
-# Clone your fork
-$ git clone your-fork-url && cd github-explorer
-
-# Create a branch with your feature
-$ git checkout -b my-feature
-
-# Make the commit with your changes
-$ git commit -m 'feat: My new feature'
-
-# Send the code to your remote branch
-$ git push origin my-feature
-```
-
-Depois que o seu pull request é dado o merge, você pode deletar sua branch.
 
 ## ✍️ Autor
 
