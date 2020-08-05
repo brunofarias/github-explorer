@@ -9,16 +9,16 @@
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/brunofarias/github-explorer?style=flat-square&logo=typescript">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunofarias/github-explorer?style=flat-square&logo=appveyor"">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunofarias/github-explorer?style=flat-square&logo=typescript">
 
   <a href="https://www.linkedin.com/in/brunofarias82/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Bruno%20Farias-green">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-Bruno%20Farias-green?style=flat-square&logo=linkedin">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunofarias/github-explorer">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunofarias/github-explorer?style=flat-square&logo=github">
   
   <a href="https://github.com/brunofarias/github-explorer/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunofarias/github-explorer">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunofarias/github-explorer?style=flat-square&logo=github">
   </a>  
 </p>
 
