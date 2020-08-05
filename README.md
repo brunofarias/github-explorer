@@ -19,11 +19,7 @@
   
   <a href="https://github.com/brunofarias/github-explorer/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunofarias/github-explorer">
-  </a>
-  
-  <a href="https://github.com/brunofarias/github-explorer/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/brunofarias/github-explorer">
-  </a>
+  </a>  
 </p>
 
 <p align="center">
